@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Report() {
+function ReportCard() {
   return (
     <div>
-      <button> button </button>
+      <button> submit </button>
       <h1> Report Component </h1>
     </div>
   )
 }
 
-export default Report
+export default ReportCard
