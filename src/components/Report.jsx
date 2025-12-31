@@ -3,7 +3,8 @@ import React from 'react'
 function Report() {
   return (
     <div>
-      report
+      <button> button </button>
+      <h1> Report Component </h1>
     </div>
   )
 }
